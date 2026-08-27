@@ -1,0 +1,17 @@
+# Virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# NOTE: data/raw, data/processed and models/ are intentionally NOT ignored.
+# The spec requires a self-contained, reproducible repo that ships the
+# source CSVs and the trained model artifact.
+
+# Scratch
+_to_delete/
