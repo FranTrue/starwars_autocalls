@@ -13,5 +13,3 @@ __pycache__/
 # The spec requires a self-contained, reproducible repo that ships the
 # source CSVs and the trained model artifact.
 
-# Scratch
-_to_delete/
